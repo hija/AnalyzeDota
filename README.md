@@ -1,4 +1,3 @@
-![](img/header.png)
 ![](1.%20EasyPrediction/img/header.png)
 
 Hey!
